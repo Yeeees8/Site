@@ -1,0 +1,65 @@
+.background {
+    background: fixed;
+    background-image: url(forest.jpg);
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-attachment: fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+}
+
+.but {
+     position: relative;
+     appearance: none;
+     border: 0;
+     border-radius: 5px;
+     color: red;
+     background-color: transparent;
+     font-size: 16px;
+     margin-top: 20px;
+     margin-left: 20px;
+     font-size: 25px;
+     bottom: 200px;
+}
+
+A {
+     text-decoration: none;
+     
+}
+
+ A:visited {
+     color: #cecece; 
+     text-decoration: none;
+}
+  A:active {
+     color: green;
+}
+
+
+
+.photo_p {
+     position: relative;
+     top: 200px;
+     left: 600px;
+     width: 200px;
+     height: 200px;
+     border-radius: 2px;
+}
+
+.photo {
+     border-radius: 2px
+}
+
+.nicname {
+     background-color: transparent;
+     position: relative;
+     bottom: 70px;
+     left: 900px;
+     width: 450px;
+     height: 30px;
+     border:1px solid #999;
+     font-size:16px;
+     color: firebrick;
+}
